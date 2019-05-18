@@ -68,3 +68,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | :-1:
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | :-1:
+
+## Extra learning material
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Audio programming with Raspberry Pi](https://www.kadenze.com/courses/creative-audio-programming-on-the-raspberry-pi/info?utm_campaign=course_catalog&utm_content=course%3D52&utm_medium=referral&utm_source=classcentral) | UNSW Australia | 10 weeks | 15 hours/week | self-paced | Intermediate Java Programming | :-1:
+[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&siteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | University at Buffalo | 4 weeks | 3.5 hours/week | self-paced | Beginner Java Programming | :-1:
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&siteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Princeton University | 4.5 weeks | 4 hours/week | self-paced | none | :-1:
