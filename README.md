@@ -7,6 +7,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none | :-1:
+[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x?source=aw&awc=6798_1558153725_a34db8fc86d078c8744b5ed927e82ee1&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | HarvardX | N/A | 10-12 hours/week | self-paced | none | :-1:
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | :-1:
 
 ## Programming
@@ -74,5 +75,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Audio programming with Raspberry Pi](https://www.kadenze.com/courses/creative-audio-programming-on-the-raspberry-pi/info?utm_campaign=course_catalog&utm_content=course%3D52&utm_medium=referral&utm_source=classcentral) | UNSW Australia | 10 weeks | 15 hours/week | self-paced | Intermediate Java Programming | :-1:
-[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&siteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | University at Buffalo | 4 weeks | 3.5 hours/week | self-paced | Beginner Java Programming | :-1:
-[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&siteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Princeton University | 4.5 weeks | 4 hours/week | self-paced | none | :-1:
+[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&siteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Buffalo | 4 weeks | 3.5 hours/week | self-paced | Beginner Java Programming | :-1:
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&siteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Princeton | 4.5 weeks | 4 hours/week | self-paced | none | :-1:
+[Intro to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | N/A | 5-10 hours/week | self-paced | Intro to Statistics | :-1:
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 3 weeks | 8-10  hours/week | self-paced | none | :-1:
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals-2?source=aw&awc=6798_1558153538_fa07cc22030642792bb11d788537b326&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | RITx | 8 weeks | 10-12 hours/week | self-paced | none | :-1:
