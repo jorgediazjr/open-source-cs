@@ -80,3 +80,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [Intro to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | N/A | 5-10 hours/week | self-paced | Intro to Statistics | :-1:
 [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 3 weeks | 8-10  hours/week | self-paced | none | :-1:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals-2?source=aw&awc=6798_1558153538_fa07cc22030642792bb11d788537b326&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | RITx | 8 weeks | 10-12 hours/week | self-paced | none | :-1:
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Saarland University | 2 months | 10-12 hours/week | self-paced | none | :-1:
