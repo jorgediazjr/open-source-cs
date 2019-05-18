@@ -81,3 +81,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 3 weeks | 8-10  hours/week | self-paced | none | :-1:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals-2?source=aw&awc=6798_1558153538_fa07cc22030642792bb11d788537b326&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | RITx | 8 weeks | 10-12 hours/week | self-paced | none | :-1:
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Saarland University | 2 months | 10-12 hours/week | self-paced | none | :-1:
+[Intro to iOS Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) | Udacity | 4 weeks | 2-4 hours/week | self-paced | none | :-1:
+[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-xGlkvwapEQp_oGm1NJMPZQ&siteID=SAyYsTvLiGQ-xGlkvwapEQp_oGm1NJMPZQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Johns Hopkins | 33 hours | 4-6 hours/weeks | self-paced | none | :-1:
+
+
+
+
+
+
+
+
+
