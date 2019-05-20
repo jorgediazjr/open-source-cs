@@ -69,6 +69,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | :-1:
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | :-1:
+[Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Google | 1 week | n/a | self-paced | none | :-1:
 
 ## Game Development
 
@@ -84,6 +85,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Introduction to Programming in C Specialization](https://www.coursera.org/specializations/c-programming) | Duke | 3 months | 5-10 hours/week | self-paced | none | :-1:
+[Introduction to C++](https://www.edx.org/course/introduction-to-c-3) | Microsoft | 4 weeks | 3-5 hours/week | self-paced | none | :-1:
 [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-KkL8RMWk2c2ir8g5U3MJuw&siteID=SAyYsTvLiGQ-KkL8RMWk2c2ir8g5U3MJuw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Princeton | 26 hours | 2-4 hours/week | self-paced | Advanced | :-1:
 [Audio programming with Raspberry Pi](https://www.kadenze.com/courses/creative-audio-programming-on-the-raspberry-pi/info?utm_campaign=course_catalog&utm_content=course%3D52&utm_medium=referral&utm_source=classcentral) | UNSW Australia | 10 weeks | 15 hours/week | self-paced | Intermediate Java Programming | :-1:
 [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&siteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Buffalo | 4 weeks | 3.5 hours/week | self-paced | Beginner Java Programming | :-1:
