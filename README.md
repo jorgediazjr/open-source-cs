@@ -8,13 +8,13 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none | :construction: | :-1:
 [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x?source=aw&awc=6798_1558153725_a34db8fc86d078c8744b5ed927e82ee1&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | HarvardX | N/A | 10-12 hours/week | self-paced | none | :chart_with_upwards_trend: | :-1:
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | :construction: | :-1:
+[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none | :chart_with_upwards_trend: | :-1:
 
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none | :construction: | :-1:
+[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none | :chart_with_upwards_trend: | :-1:
 [Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software | :construction: | :-1:
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data | :construction: | :-1:
 [Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java | :construction: | :-1:
@@ -28,7 +28,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | pre-calculus | :construction: | :-1:
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | pre-calculus | :chart_with_upwards_trend: | :-1:
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation | :construction: | :-1:
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration | :construction: | :-1:
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | pre-calculus | :construction: | :-1:
@@ -67,7 +67,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Completed
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | :construction: | :-1:
+[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none | :chart_with_upwards_trend: | :-1:
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none | :construction: | :-1:
 [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Google | 1 week | n/a | self-paced | none | :construction: | :-1:
 
@@ -92,7 +92,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Progress | Co
 [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&siteID=SAyYsTvLiGQ-6m4PTLrZS18oQQ.r.PFCoA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Buffalo | 4 weeks | 3.5 hours/week | self-paced | Beginner Java Programming | :construction: | :-1:
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&siteID=SAyYsTvLiGQ-VrKcsEXK1zjm14Cob2vuNw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) | Princeton | 4.5 weeks | 4 hours/week | self-paced | none | :construction: | :-1:
 [Intro to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | N/A | 5-10 hours/week | self-paced | Intro to Statistics | :construction: | :-1:
-[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 3 weeks | 8-10  hours/week | self-paced | none | :construction: | :-1:
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 3 weeks | 8-10  hours/week | self-paced | none | :chart_with_upwards_trend: | :-1:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals-2?source=aw&awc=6798_1558153538_fa07cc22030642792bb11d788537b326&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F) | RITx | 8 weeks | 10-12 hours/week | self-paced | none | :construction: | :-1:
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Saarland University | 2 months | 10-12 hours/week | self-paced | none | :construction: | :-1:
 [Intro to iOS Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) | Udacity | 4 weeks | 2-4 hours/week | self-paced | none | :construction: | :-1:
